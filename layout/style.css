@@ -1,0 +1,33 @@
+.hearder {
+    overflow: auto;
+}
+
+.header-menu {
+    float: right;
+    list-style-type: none;
+}
+
+.header-menu > li {
+    float: left;
+    padding-right: 10px;
+}
+
+.container {
+    overflow: auto;
+    clear: both;
+}
+
+.sidebar {
+    float: right;
+    padding: 25px;
+}
+
+.main-body {
+    width: 75%;
+    
+}
+
+.footer { 
+    clear: both;
+    text-align: center;
+}
